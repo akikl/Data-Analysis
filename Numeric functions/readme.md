@@ -12,7 +12,7 @@ Here are some files that uses various tools to perform same function:
 - [Linkedin1.sql](https://github.com/akikl/Data-Analysis/blob/main/Numeric%20functions/Linkedin1.sql) -Sql file
 - [using_pandas.py](https://github.com/akikl/Data-Analysis/blob/main/Numeric%20functions/using_pandas.py) - pandas file
   
-Throughout my exploration, I dove deep into numeric functions that serve as the bedrock of data analysis:
+
 ## Numeric functions explored:
 - COUNTA() 
 - SUM()
