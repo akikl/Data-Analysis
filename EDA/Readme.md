@@ -16,7 +16,7 @@ This project aims to understand how different demographics use social media and 
     Platform Popularity: YouTube, Facebook, and Instagram are the top platforms.
     Mental Health Correlations: Increased social media usage is linked to higher levels of depression and sleep issues.
 
-Blog Post
+**Blog Post**
 
 For a detailed narrative of the analysis, read my full Medium post: https://medium.com/@akilk986/impacts-of-social-media-on-mental-health-d04b953b3405
 Conclusion
