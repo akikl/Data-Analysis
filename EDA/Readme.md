@@ -22,7 +22,9 @@ This project aims to understand how different demographics use social media and 
 **Blog Post**
 
 For a detailed narrative of the analysis, read my full Medium post: https://medium.com/@akilk986/impacts-of-social-media-on-mental-health-d04b953b3405
-Conclusion
+
+
+**Conclusion**
 
 This analysis highlights the double-edged sword of social media – its ability to connect and inform, alongside its potential to impact mental health. It underscores the need for mindful usage to balance these effects.
 
