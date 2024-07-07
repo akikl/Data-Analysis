@@ -9,6 +9,9 @@ This project aims to understand how different demographics use social media and 
     Social Media Usage: Platforms used, average time spent, usage patterns
     Mental Health Indicators: Levels of restlessness, distraction, depression, and sleep issues
 
+   ![SOCIAL-MEDIA](https://github.com/akikl/Data-Analysis/assets/57595385/93d5fec2-aad3-4e94-9ae0-6febc4d7c17e)
+ 
+
 **Key Insights:-**
 
     High Usage: Students and younger generations (ages 17-28) are the predominant users of social media.
